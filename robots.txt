@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+https://exteriorides.github.io/outdoor-furniture/sitemapx.xml
